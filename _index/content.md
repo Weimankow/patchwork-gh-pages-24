@@ -1,10 +1,10 @@
 ---
-profileimage: "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAVeAAAAJGFmNmZkZWUwLWYxOTMtNGIyMC05OWJlLTJmZjhhN2UxNGQyYQ.jpg"
-name: "Adrian M Ryan"
-title: "Education Consultant"
+profileimage: "https://avatars0.githubusercontent.com/u/13810419?v=3&s=460"
+name: "Weiman"
+title: "Sketchnoter and Explainer"
 ---
 
-#### *Adrian is a product manager with 5 years experience building both digital and offline education products.*
+#### *I'm awesome*
 
 His accomplishments include designing and building career-oriented programs at [General Assembly](http://generalassemb.ly) while managing an international team of 16, building online courses for public companies as a freelance consultant, and founding [a company](http://www.wheelhouse.io) that provides modern software development training to Fortune 500 companies.
 
